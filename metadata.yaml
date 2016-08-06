@@ -1,0 +1,35 @@
+_repo: American-Hero-MythsA-Study-in-the-Native-Religions-of-the-Western-Continent_11029
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brinton, Daniel G. (Daniel Garrison)
+    aliases:
+    - Brinton, Daniel Garrison
+    - Brinton, D. G. (Daniel Garrison)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '2993'
+    url: http://www.gutenberg.org/2009/agents/2993
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
+description: This little volume is a contribution to the comparative study of religions.
+  It is an endeavor to present in a critically correct light some of the fundamental
+  conceptions which are found in the native beliefs of the tribes of America.
+gutenberg_bookshelf:
+- Native America
+- Folklore
+- Mythology
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian mythology'
+- !lcsh 'Indians -- Religion'
+- !lcc 'E011'
+- GITenberg
+title: 'American Hero-Myths: A Study in the Native Religions of the Western Continent'
+url: http://www.gutenberg.org/ebooks/11029
